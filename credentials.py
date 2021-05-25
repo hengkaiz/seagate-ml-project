@@ -1,0 +1,3 @@
+USER  = 000000
+PASS = "PASS"
+PRESTO_FOLDER = "C:/Hadoop/"

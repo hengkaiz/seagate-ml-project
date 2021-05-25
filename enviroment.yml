@@ -1,0 +1,11 @@
+name: ml_env
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - matplotlib
+  - jupyter
+  - tensorflow
+  - python=3.7.7
+  - numpy
+  - scikit-learn

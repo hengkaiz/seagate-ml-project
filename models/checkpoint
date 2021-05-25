@@ -1,0 +1,2 @@
+model_checkpoint_path: "cim_dnn_model_v2"
+all_model_checkpoint_paths: "cim_dnn_model_v2"
